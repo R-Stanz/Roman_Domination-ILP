@@ -1,3 +1,6 @@
+# Example
+ILP_example/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
