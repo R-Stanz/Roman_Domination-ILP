@@ -11,16 +11,16 @@ In order to achieve it, we are going to use the Google OR tools on python 3 to s
 Technologies
 ---
 
-It's been used the followed technologies:
+It's been used the following technologies:
 
 |Name|Version|
 |---|---|
-|Python 3|3.10.12|
 |Jupyter Notebook|7.1.1|
 |MatPlotLib|3.8.2|
 |NetworkX|3.3|
+|OR-Tools|9.10.4067|
 |Pandas|2.2.1|
-
+|Python 3|3.10.12|
 
 Theoretical Approaches
 ---
