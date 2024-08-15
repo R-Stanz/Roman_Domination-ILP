@@ -32,11 +32,54 @@ def get_rr_solver(G, number_of_nodes):
 def get_graphs_infos(size_variable):
     infos = []
 
+    default_number_of_nodes = 10**size_variable
     infos.append(
         {
-            "G" : nx.complete_graph(number_of_nodes),
-            "number_of_nodes" : 10**size_variable,
-            "name" : "complete"
+            "G" : nx.complete_graph(default_number_of_nodes),
+            "number_of_nodes" : default_number_of_nodes,
+            "name" : "Complete"
         }
     )
+
+    infos.append(
+        {
+            "G" : nx.star_graph(default_number_of_nodes-1),
+            "number_of_nodes" : default_number_of_nodes,
+            "name" : "Star"
+        }
+    )
+
+    infos.append(
+        {
+            "G" : nx.cycle_graph(default_number_of_nodes),
+            "number_of_nodes" : default_number_of_nodes,
+            "name" : "Cycle"
+        }
+    )
+
+    infos.append(
+        {
+            "G" : nx.path_graph(default_number_of_nodes),
+            "number_of_nodes" : default_number_of_nodes,
+            "name" : "Path"
+        }
+    )
+
+    infos.append(
+        {
+            "G" : nx.binomial_tree(2*size_variable),
+            "number_of_nodes" : 2**(2*size_variable),
+            "name" : "Binomial Tree"
+        }
+    )
+
+    for randomness in [30, 50, 80]:
+        infos.append(
+            {
+                "G" : nx.binomial_graph(default_number_of_nodes, randomness/100),
+                "number_of_nodes" : default_number_of_nodes,
+                "name" : "Binomial Graph ({}%)".format(randomness)
+            }
+        )
+
     return infos
