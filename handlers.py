@@ -32,7 +32,8 @@ def get_rr_solver(G, number_of_nodes):
 def get_graphs_infos(size_variable):
     infos = []
 
-    default_number_of_nodes = 10**size_variable
+    default_number_of_nodes = int(10**size_variable)
+    size_variable = int((size_variable + 0.5) // 1) # Round it UP
     infos.append(
         {
             "G" : nx.complete_graph(default_number_of_nodes),

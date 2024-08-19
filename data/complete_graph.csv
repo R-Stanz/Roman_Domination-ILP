@@ -1,33 +1,3211 @@
 graph_type,size,objective_value,time_ms,iterations,branch_and_bound_nodes
-Complete,10,2.0,9,0,0
+Complete,10,2.0,11,0,0
+Star,10,2.0,8,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,9,0,0
+Complete,10,2.0,6,0,0
 Star,10,2.0,4,0,0
-Cycle,10,7.0,9,0,0
-Path,10,7.0,8,0,0
-Binomial Tree,4,3.0,7,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
 Binomial Graph (30%),10,6.0,6,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
 Binomial Graph (50%),10,4.0,6,0,0
-Binomial Graph (80%),10,2.0,10,0,0
-Complete,10,2.0,9,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,5,0,0
 Star,10,2.0,3,0,0
 Cycle,10,7.0,7,0,0
 Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,6.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,6,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,4.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,7,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,7,0,0
+Binomial Graph (50%),10,5.0,7,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,8,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,5,0,0
+Binomial Graph (30%),10,4.0,6,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,8,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,6,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,2.0,6,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,8,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,6,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,3.0,6,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,8,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,8,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,6.0,6,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,8,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,5,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,3.0,8,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,9,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,8,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,5,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,4.0,7,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,8,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,7.0,6,0,0
+Binomial Graph (50%),10,5.0,9,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,8.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,7,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
 Binomial Tree,4,3.0,2,0,0
 Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,3.0,8,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,6,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,9,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,8,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,5,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
 Binomial Graph (50%),10,3.0,6,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,8,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,7,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,8,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,8,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,5,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,2.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,8,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,7,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,6,0,0
+Binomial Graph (50%),10,4.0,7,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,7,0,0
+Binomial Graph (50%),10,4.0,7,0,0
 Binomial Graph (80%),10,2.0,5,0,0
-Complete,100,2.0,143,0,0
-Star,100,2.0,16,0,0
-Cycle,100,67.0,146,0,0
-Path,100,67.0,103,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,4.0,6,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,7,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,8.0,4,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,3.0,4,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,8,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,8,0,0
+Complete,10,2.0,6,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,5,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,4.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,3,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,6,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,5.0,6,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,6,0,0
+Binomial Graph (50%),10,3.0,7,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,8.0,6,0,0
+Binomial Graph (50%),10,3.0,6,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,7,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,6,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,4,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,6,0,0
+Binomial Graph (50%),10,4.0,7,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,3.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,8.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,6,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,3.0,6,0,0
+Binomial Graph (80%),10,2.0,7,0,0
+Complete,10,2.0,8,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,7,0,0
+Star,10,2.0,5,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,7,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,2.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,3.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,3,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,2.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,5,0,0
+Binomial Graph (50%),10,5.0,4,0,0
+Binomial Graph (80%),10,2.0,6,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,3.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,4.0,4,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,4.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,4,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,6,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,6,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,6,0,0
+Binomial Graph (50%),10,3.0,6,0,0
+Binomial Graph (80%),10,3.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,4,0,0
+Path,10,7.0,5,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,5,0,0
+Cycle,10,7.0,7,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,6.0,4,0,0
+Binomial Graph (50%),10,3.0,4,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,7,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,6,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,5.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,3,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,5.0,5,0,0
+Binomial Graph (50%),10,4.0,4,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,4,0,0
+Complete,10,2.0,5,0,0
+Star,10,2.0,3,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,4,0,0
+Binomial Tree,4,3.0,3,0,0
+Binomial Graph (30%),10,7.0,4,0,0
+Binomial Graph (50%),10,4.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,10,2.0,4,0,0
+Star,10,2.0,2,0,0
+Cycle,10,7.0,5,0,0
+Path,10,7.0,60,0,0
+Binomial Tree,4,3.0,2,0,0
+Binomial Graph (30%),10,8.0,4,0,0
+Binomial Graph (50%),10,3.0,5,0,0
+Binomial Graph (80%),10,2.0,5,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,4,0,0
+Binomial Graph (30%),100,10.0,56610,0,0
+Binomial Graph (50%),100,6.0,13184,0,0
+Binomial Graph (80%),100,4.0,609,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,91131,0,0
+Binomial Graph (50%),100,8.0,55359,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,107,0,0
+Path,100,67.0,78,0,0
 Binomial Tree,16,12.0,6,0,0
-Binomial Graph (30%),100,11.0,927384,0,0
-Binomial Graph (50%),100,7.0,14844,0,0
-Binomial Graph (80%),100,4.0,300,0,0
-Complete,100,2.0,115,0,0
+Binomial Graph (30%),100,10.0,201119,0,0
+Binomial Graph (50%),100,7.0,31298,0,0
+Binomial Graph (80%),100,4.0,338,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,188377,0,0
+Binomial Graph (50%),100,7.0,16536,0,0
+Binomial Graph (80%),100,4.0,293,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,102,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,195066,0,0
+Binomial Graph (50%),100,6.0,4455,0,0
+Binomial Graph (80%),100,4.0,323,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1325540,0,0
+Binomial Graph (50%),100,7.0,12185,0,0
+Binomial Graph (80%),100,4.0,267,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,78,0,0
+Binomial Tree,16,12.0,8,0,0
+Binomial Graph (30%),100,10.0,111234,0,0
+Binomial Graph (50%),100,7.0,15767,0,0
+Binomial Graph (80%),100,4.0,318,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,58845,0,0
+Binomial Graph (50%),100,6.0,7584,0,0
+Binomial Graph (80%),100,4.0,324,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,144333,0,0
+Binomial Graph (50%),100,6.0,9785,0,0
+Binomial Graph (80%),100,4.0,333,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,93,0,0
+Path,100,67.0,116,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,197865,0,0
+Binomial Graph (50%),100,6.0,13818,0,0
+Binomial Graph (80%),100,4.0,331,0,0
+Complete,100,2.0,105,0,0
 Star,100,2.0,13,0,0
 Cycle,100,67.0,77,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,103716,0,0
+Binomial Graph (50%),100,7.0,18972,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,100,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1852904,0,0
+Binomial Graph (50%),100,6.0,17793,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,66534,0,0
+Binomial Graph (50%),100,7.0,19214,0,0
+Binomial Graph (80%),100,4.0,305,0,0
+Complete,100,2.0,167,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,86,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1892914,0,0
+Binomial Graph (50%),100,6.0,6327,0,0
+Binomial Graph (80%),100,4.0,324,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,894165,0,0
+Binomial Graph (50%),100,7.0,20135,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,87150,0,0
+Binomial Graph (50%),100,6.0,5504,0,0
+Binomial Graph (80%),100,4.0,252,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,79,0,0
+Path,100,67.0,82,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,556515,0,0
+Binomial Graph (50%),100,7.0,17292,0,0
+Binomial Graph (80%),100,4.0,298,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,153867,0,0
+Binomial Graph (50%),100,6.0,9358,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,117,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,113149,0,0
+Binomial Graph (50%),100,7.0,19215,0,0
+Binomial Graph (80%),100,4.0,317,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1176050,0,0
+Binomial Graph (50%),100,7.0,15403,0,0
+Binomial Graph (80%),100,4.0,295,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,110475,0,0
+Binomial Graph (50%),100,7.0,9318,0,0
+Binomial Graph (80%),100,4.0,316,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,78148,0,0
+Binomial Graph (50%),100,7.0,13012,0,0
+Binomial Graph (80%),100,4.0,334,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,89,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,211828,0,0
+Binomial Graph (50%),100,7.0,15668,0,0
+Binomial Graph (80%),100,4.0,299,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,18,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1752379,0,0
+Binomial Graph (50%),100,7.0,17318,0,0
+Binomial Graph (80%),100,4.0,316,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,47419,0,0
+Binomial Graph (50%),100,6.0,3411,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,101,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,165976,0,0
+Binomial Graph (50%),100,6.0,11669,0,0
+Binomial Graph (80%),100,4.0,319,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,89,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,202768,0,0
+Binomial Graph (50%),100,7.0,47281,0,0
+Binomial Graph (80%),100,4.0,303,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,8,0,0
+Binomial Graph (30%),100,10.0,134124,0,0
+Binomial Graph (50%),100,6.0,5959,0,0
+Binomial Graph (80%),100,4.0,337,0,0
+Complete,100,2.0,110,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,88,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1409983,0,0
+Binomial Graph (50%),100,7.0,15046,0,0
+Binomial Graph (80%),100,4.0,291,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,4008944,0,0
+Binomial Graph (50%),100,7.0,10754,0,0
+Binomial Graph (80%),100,4.0,299,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,86,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,174197,0,0
+Binomial Graph (50%),100,7.0,27250,0,0
+Binomial Graph (80%),100,4.0,339,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,91,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,116996,0,0
+Binomial Graph (50%),100,7.0,12177,0,0
+Binomial Graph (80%),100,4.0,333,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,96029,0,0
+Binomial Graph (50%),100,7.0,26521,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,131547,0,0
+Binomial Graph (50%),100,7.0,18727,0,0
+Binomial Graph (80%),100,4.0,330,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1124033,0,0
+Binomial Graph (50%),100,6.0,14003,0,0
+Binomial Graph (80%),100,4.0,355,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,870610,0,0
+Binomial Graph (50%),100,6.0,3265,0,0
+Binomial Graph (80%),100,4.0,344,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,864670,0,0
+Binomial Graph (50%),100,8.0,77625,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,83170,0,0
+Binomial Graph (50%),100,7.0,18937,0,0
+Binomial Graph (80%),100,4.0,347,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,109,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1815866,0,0
+Binomial Graph (50%),100,7.0,19403,0,0
+Binomial Graph (80%),100,4.0,301,0,0
+Complete,100,2.0,133,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,978433,0,0
+Binomial Graph (50%),100,6.0,2630,0,0
+Binomial Graph (80%),100,4.0,304,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,3313211,0,0
+Binomial Graph (50%),100,7.0,14780,0,0
+Binomial Graph (80%),100,4.0,296,0,0
+Complete,100,2.0,123,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,162059,0,0
+Binomial Graph (50%),100,7.0,20967,0,0
+Binomial Graph (80%),100,4.0,331,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,60881,0,0
+Binomial Graph (50%),100,8.0,78448,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,108,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,904415,0,0
+Binomial Graph (50%),100,7.0,36700,0,0
+Binomial Graph (80%),100,4.0,299,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,4,0,0
+Binomial Graph (30%),100,10.0,175472,0,0
+Binomial Graph (50%),100,7.0,19488,0,0
+Binomial Graph (80%),100,4.0,317,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,111569,0,0
+Binomial Graph (50%),100,6.0,2268,0,0
+Binomial Graph (80%),100,4.0,344,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,299470,0,0
+Binomial Graph (50%),100,7.0,25156,0,0
+Binomial Graph (80%),100,4.0,335,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,79,0,0
+Path,100,67.0,86,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,119747,0,0
+Binomial Graph (50%),100,7.0,21744,0,0
+Binomial Graph (80%),100,4.0,309,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1266591,0,0
+Binomial Graph (50%),100,6.0,8005,0,0
+Binomial Graph (80%),100,4.0,318,0,0
+Complete,100,2.0,149,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,11.0,2817001,0,0
+Binomial Graph (50%),100,6.0,5645,0,0
+Binomial Graph (80%),100,4.0,315,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1548597,0,0
+Binomial Graph (50%),100,7.0,10867,0,0
+Binomial Graph (80%),100,4.0,285,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,958104,0,0
+Binomial Graph (50%),100,6.0,4802,0,0
+Binomial Graph (80%),100,4.0,299,0,0
+Complete,100,2.0,117,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,804263,0,0
+Binomial Graph (50%),100,7.0,16378,0,0
+Binomial Graph (80%),100,4.0,326,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,217117,0,0
+Binomial Graph (50%),100,7.0,21643,0,0
+Binomial Graph (80%),100,4.0,306,0,0
+Complete,100,2.0,110,0,0
+Star,100,2.0,22,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,406535,0,0
+Binomial Graph (50%),100,8.0,70089,0,0
+Binomial Graph (80%),100,4.0,306,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,82,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1919302,0,0
+Binomial Graph (50%),100,7.0,18848,0,0
+Binomial Graph (80%),100,4.0,300,0,0
+Complete,100,2.0,101,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,83,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,85265,0,0
+Binomial Graph (50%),100,6.0,7258,0,0
+Binomial Graph (80%),100,4.0,283,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,89,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,132882,0,0
+Binomial Graph (50%),100,6.0,8644,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,2210700,0,0
+Binomial Graph (50%),100,7.0,18231,0,0
+Binomial Graph (80%),100,4.0,313,0,0
+Complete,100,2.0,140,0,0
+Star,100,2.0,21,0,0
+Cycle,100,67.0,111,0,0
+Path,100,67.0,135,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,100317,0,0
+Binomial Graph (50%),100,6.0,6273,0,0
+Binomial Graph (80%),100,4.0,245,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,69975,0,0
+Binomial Graph (50%),100,8.0,100283,0,0
+Binomial Graph (80%),100,4.0,307,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,21,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,66191,0,0
+Binomial Graph (50%),100,7.0,15351,0,0
+Binomial Graph (80%),100,4.0,654,0,0
+Complete,100,2.0,122,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,127,0,0
+Path,100,67.0,119,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,50272,0,0
+Binomial Graph (50%),100,7.0,23005,0,0
+Binomial Graph (80%),100,4.0,314,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,65772,0,0
+Binomial Graph (50%),100,7.0,19816,0,0
+Binomial Graph (80%),100,4.0,330,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,17,0,0
+Cycle,100,67.0,87,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,3116939,0,0
+Binomial Graph (50%),100,7.0,23214,0,0
+Binomial Graph (80%),100,4.0,335,0,0
+Complete,100,2.0,114,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,73,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1048441,0,0
+Binomial Graph (50%),100,7.0,21406,0,0
+Binomial Graph (80%),100,4.0,304,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,16,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,75673,0,0
+Binomial Graph (50%),100,7.0,17927,0,0
+Binomial Graph (80%),100,4.0,350,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,78,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1989491,0,0
+Binomial Graph (50%),100,7.0,23460,0,0
+Binomial Graph (80%),100,4.0,317,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1841085,0,0
+Binomial Graph (50%),100,6.0,4384,0,0
+Binomial Graph (80%),100,4.0,317,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,274841,0,0
+Binomial Graph (50%),100,7.0,18678,0,0
+Binomial Graph (80%),100,4.0,337,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1687099,0,0
+Binomial Graph (50%),100,6.0,8464,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,100,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,82,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,68981,0,0
+Binomial Graph (50%),100,7.0,18795,0,0
+Binomial Graph (80%),100,4.0,309,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,166112,0,0
+Binomial Graph (50%),100,7.0,40072,0,0
+Binomial Graph (80%),100,4.0,327,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,4065060,0,0
+Binomial Graph (50%),100,7.0,18510,0,0
+Binomial Graph (80%),100,4.0,676,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,139079,0,0
+Binomial Graph (50%),100,7.0,19959,0,0
+Binomial Graph (80%),100,4.0,275,0,0
+Complete,100,2.0,114,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,77326,0,0
+Binomial Graph (50%),100,6.0,7492,0,0
+Binomial Graph (80%),100,4.0,327,0,0
+Complete,100,2.0,113,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1527095,0,0
+Binomial Graph (50%),100,7.0,16193,0,0
+Binomial Graph (80%),100,4.0,346,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,55036,0,0
+Binomial Graph (50%),100,6.0,11309,0,0
+Binomial Graph (80%),100,4.0,307,0,0
+Complete,100,2.0,113,0,0
+Star,100,2.0,21,0,0
+Cycle,100,67.0,87,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1945685,0,0
+Binomial Graph (50%),100,6.0,9555,0,0
+Binomial Graph (80%),100,4.0,318,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,17,0,0
+Cycle,100,67.0,90,0,0
 Path,100,67.0,80,0,0
 Binomial Tree,16,12.0,5,0,0
-Binomial Graph (30%),100,10.0,89035,0,0
-Binomial Graph (50%),100,6.0,15821,0,0
+Binomial Graph (30%),100,11.0,1065961,0,0
+Binomial Graph (50%),100,8.0,57761,0,0
+Binomial Graph (80%),100,4.0,300,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,105,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,67797,0,0
+Binomial Graph (50%),100,6.0,13080,0,0
+Binomial Graph (80%),100,4.0,319,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1864974,0,0
+Binomial Graph (50%),100,6.0,3327,0,0
+Binomial Graph (80%),100,4.0,343,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,92,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,121030,0,0
+Binomial Graph (50%),100,7.0,17240,0,0
+Binomial Graph (80%),100,4.0,296,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,527815,0,0
+Binomial Graph (50%),100,7.0,20464,0,0
+Binomial Graph (80%),100,4.0,314,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,131342,0,0
+Binomial Graph (50%),100,6.0,8043,0,0
+Binomial Graph (80%),100,4.0,347,0,0
+Complete,100,2.0,108,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,247153,0,0
+Binomial Graph (50%),100,7.0,20909,0,0
+Binomial Graph (80%),100,4.0,313,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1013016,0,0
+Binomial Graph (50%),100,7.0,18080,0,0
+Binomial Graph (80%),100,4.0,289,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1810485,0,0
+Binomial Graph (50%),100,7.0,28662,0,0
+Binomial Graph (80%),100,4.0,316,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,73,0,0
+Binomial Tree,16,12.0,8,0,0
+Binomial Graph (30%),100,10.0,165685,0,0
+Binomial Graph (50%),100,7.0,18137,0,0
+Binomial Graph (80%),100,4.0,317,0,0
+Complete,100,2.0,100,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,191512,0,0
+Binomial Graph (50%),100,7.0,67404,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,88,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1784922,0,0
+Binomial Graph (50%),100,7.0,18143,0,0
+Binomial Graph (80%),100,4.0,337,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,155030,0,0
+Binomial Graph (50%),100,7.0,20621,0,0
+Binomial Graph (80%),100,4.0,345,0,0
+Complete,100,2.0,161,0,0
+Star,100,2.0,17,0,0
+Cycle,100,67.0,112,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,120255,0,0
+Binomial Graph (50%),100,6.0,9058,0,0
+Binomial Graph (80%),100,4.0,306,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,96,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,2561838,0,0
+Binomial Graph (50%),100,7.0,22289,0,0
+Binomial Graph (80%),100,4.0,340,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,79,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,11.0,239334,0,0
+Binomial Graph (50%),100,7.0,21719,0,0
+Binomial Graph (80%),100,4.0,314,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,138582,0,0
+Binomial Graph (50%),100,7.0,20783,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,70,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,70150,0,0
+Binomial Graph (50%),100,7.0,18652,0,0
+Binomial Graph (80%),100,4.0,326,0,0
+Complete,100,2.0,100,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,96,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,58827,0,0
+Binomial Graph (50%),100,6.0,16112,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,99,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,196166,0,0
+Binomial Graph (50%),100,7.0,12312,0,0
+Binomial Graph (80%),100,4.0,318,0,0
+Complete,100,2.0,114,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,275319,0,0
+Binomial Graph (50%),100,8.0,98802,0,0
+Binomial Graph (80%),100,4.0,302,0,0
+Complete,100,2.0,114,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,79,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,118445,0,0
+Binomial Graph (50%),100,7.0,10269,0,0
+Binomial Graph (80%),100,4.0,240,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,26,0,0
+Cycle,100,67.0,154,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,123951,0,0
+Binomial Graph (50%),100,7.0,16256,0,0
+Binomial Graph (80%),100,4.0,316,0,0
+Complete,100,2.0,108,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,121952,0,0
+Binomial Graph (50%),100,7.0,72075,0,0
+Binomial Graph (80%),100,4.0,292,0,0
+Complete,100,2.0,124,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,103149,0,0
+Binomial Graph (50%),100,6.0,6781,0,0
+Binomial Graph (80%),100,4.0,331,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,238212,0,0
+Binomial Graph (50%),100,6.0,10840,0,0
+Binomial Graph (80%),100,4.0,267,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,821132,0,0
+Binomial Graph (50%),100,7.0,20488,0,0
+Binomial Graph (80%),100,4.0,800,0,0
+Complete,100,2.0,162,0,0
+Star,100,2.0,21,0,0
+Cycle,100,67.0,90,0,0
+Path,100,67.0,140,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,201550,0,0
+Binomial Graph (50%),100,7.0,21211,0,0
+Binomial Graph (80%),100,4.0,710,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,122,0,0
+Binomial Tree,16,12.0,7,0,0
+Binomial Graph (30%),100,11.0,500145,0,0
+Binomial Graph (50%),100,7.0,13380,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,8,0,0
+Binomial Graph (30%),100,11.0,1923125,0,0
+Binomial Graph (50%),100,6.0,7683,0,0
+Binomial Graph (80%),100,4.0,320,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,139,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,90968,0,0
+Binomial Graph (50%),100,8.0,111195,0,0
+Binomial Graph (80%),100,4.0,338,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,79,0,0
+Path,100,67.0,85,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,111481,0,0
+Binomial Graph (50%),100,7.0,51538,0,0
+Binomial Graph (80%),100,4.0,294,0,0
+Complete,100,2.0,110,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,70,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,152166,0,0
+Binomial Graph (50%),100,6.0,20341,0,0
+Binomial Graph (80%),100,4.0,293,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,139810,0,0
+Binomial Graph (50%),100,6.0,8085,0,0
+Binomial Graph (80%),100,4.0,312,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,134095,0,0
+Binomial Graph (50%),100,6.0,4092,0,0
+Binomial Graph (80%),100,4.0,353,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,193446,0,0
+Binomial Graph (50%),100,8.0,99259,0,0
+Binomial Graph (80%),100,4.0,320,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1269261,0,0
+Binomial Graph (50%),100,7.0,14876,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,108126,0,0
+Binomial Graph (50%),100,6.0,3884,0,0
+Binomial Graph (80%),100,4.0,328,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,161198,0,0
+Binomial Graph (50%),100,7.0,18609,0,0
+Binomial Graph (80%),100,4.0,340,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,988548,0,0
+Binomial Graph (50%),100,7.0,16315,0,0
+Binomial Graph (80%),100,4.0,305,0,0
+Complete,100,2.0,100,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,828001,0,0
+Binomial Graph (50%),100,6.0,8368,0,0
+Binomial Graph (80%),100,4.0,309,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,139266,0,0
+Binomial Graph (50%),100,7.0,24968,0,0
+Binomial Graph (80%),100,4.0,298,0,0
+Complete,100,2.0,132,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,82,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,151892,0,0
+Binomial Graph (50%),100,7.0,32092,0,0
+Binomial Graph (80%),100,4.0,352,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,257169,0,0
+Binomial Graph (50%),100,7.0,18628,0,0
+Binomial Graph (80%),100,4.0,322,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,97404,0,0
+Binomial Graph (50%),100,6.0,9699,0,0
+Binomial Graph (80%),100,4.0,285,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,78,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,140123,0,0
+Binomial Graph (50%),100,7.0,21576,0,0
+Binomial Graph (80%),100,4.0,336,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,12.0,4100940,0,0
+Binomial Graph (50%),100,8.0,79645,0,0
+Binomial Graph (80%),100,4.0,366,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,82169,0,0
+Binomial Graph (50%),100,7.0,24443,0,0
+Binomial Graph (80%),100,4.0,256,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,16,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,851792,0,0
+Binomial Graph (50%),100,6.0,9533,0,0
+Binomial Graph (80%),100,4.0,297,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,153322,0,0
+Binomial Graph (50%),100,7.0,20203,0,0
+Binomial Graph (80%),100,4.0,294,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,7,0,0
+Binomial Graph (30%),100,10.0,49028,0,0
+Binomial Graph (50%),100,7.0,23083,0,0
+Binomial Graph (80%),100,4.0,256,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,124200,0,0
+Binomial Graph (50%),100,7.0,39176,0,0
+Binomial Graph (80%),100,4.0,294,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,16,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,178025,0,0
+Binomial Graph (50%),100,6.0,6477,0,0
+Binomial Graph (80%),100,4.0,309,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,98133,0,0
+Binomial Graph (50%),100,7.0,22164,0,0
+Binomial Graph (80%),100,4.0,311,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,335596,0,0
+Binomial Graph (50%),100,6.0,7304,0,0
+Binomial Graph (80%),100,4.0,334,0,0
+Complete,100,2.0,115,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,152970,0,0
+Binomial Graph (50%),100,7.0,78049,0,0
+Binomial Graph (80%),100,4.0,330,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,89,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,160464,0,0
+Binomial Graph (50%),100,7.0,16098,0,0
+Binomial Graph (80%),100,4.0,300,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,82,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,761227,0,0
+Binomial Graph (50%),100,7.0,17874,0,0
+Binomial Graph (80%),100,4.0,260,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,135455,0,0
+Binomial Graph (50%),100,7.0,18549,0,0
+Binomial Graph (80%),100,4.0,331,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1858884,0,0
+Binomial Graph (50%),100,7.0,21326,0,0
+Binomial Graph (80%),100,4.0,246,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,7,0,0
+Binomial Graph (30%),100,10.0,182261,0,0
+Binomial Graph (50%),100,7.0,79328,0,0
+Binomial Graph (80%),100,4.0,334,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,247362,0,0
+Binomial Graph (50%),100,7.0,18151,0,0
+Binomial Graph (80%),100,4.0,325,0,0
+Complete,100,2.0,112,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,80,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,163689,0,0
+Binomial Graph (50%),100,7.0,15156,0,0
+Binomial Graph (80%),100,4.0,282,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,37632,0,0
+Binomial Graph (50%),100,7.0,16067,0,0
+Binomial Graph (80%),100,4.0,268,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,88,0,0
+Path,100,67.0,77,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,106325,0,0
+Binomial Graph (50%),100,7.0,22166,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,566764,0,0
+Binomial Graph (50%),100,7.0,18995,0,0
+Binomial Graph (80%),100,4.0,319,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,580719,0,0
+Binomial Graph (50%),100,7.0,9212,0,0
+Binomial Graph (80%),100,4.0,343,0,0
+Complete,100,2.0,108,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,70,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1974421,0,0
+Binomial Graph (50%),100,8.0,58638,0,0
+Binomial Graph (80%),100,4.0,295,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,3032043,0,0
+Binomial Graph (50%),100,7.0,34247,0,0
+Binomial Graph (80%),100,4.0,564,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,91,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,138151,0,0
+Binomial Graph (50%),100,7.0,21171,0,0
+Binomial Graph (80%),100,4.0,318,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,88,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,111021,0,0
+Binomial Graph (50%),100,6.0,9009,0,0
+Binomial Graph (80%),100,4.0,535,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,131916,0,0
+Binomial Graph (50%),100,7.0,13942,0,0
+Binomial Graph (80%),100,4.0,298,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,86,0,0
+Binomial Tree,16,12.0,8,0,0
+Binomial Graph (30%),100,10.0,100378,0,0
+Binomial Graph (50%),100,7.0,15278,0,0
+Binomial Graph (80%),100,4.0,268,0,0
+Complete,100,2.0,129,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1455285,0,0
+Binomial Graph (50%),100,7.0,19949,0,0
+Binomial Graph (80%),100,4.0,349,0,0
+Complete,100,2.0,118,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,87,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,87017,0,0
+Binomial Graph (50%),100,7.0,13952,0,0
+Binomial Graph (80%),100,4.0,307,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,15,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,80,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,161615,0,0
+Binomial Graph (50%),100,8.0,54052,0,0
+Binomial Graph (80%),100,4.0,297,0,0
+Complete,100,2.0,113,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,89,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,96010,0,0
+Binomial Graph (50%),100,6.0,15384,0,0
+Binomial Graph (80%),100,4.0,384,0,0
+Complete,100,2.0,110,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,136,0,0
+Binomial Tree,16,12.0,7,0,0
+Binomial Graph (30%),100,11.0,582431,0,0
+Binomial Graph (50%),100,7.0,21527,0,0
+Binomial Graph (80%),100,4.0,348,0,0
+Complete,100,2.0,106,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1853934,0,0
+Binomial Graph (50%),100,7.0,17943,0,0
+Binomial Graph (80%),100,4.0,318,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1473192,0,0
+Binomial Graph (50%),100,7.0,22341,0,0
+Binomial Graph (80%),100,4.0,240,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,90,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,79312,0,0
+Binomial Graph (50%),100,7.0,19199,0,0
+Binomial Graph (80%),100,4.0,306,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,152834,0,0
+Binomial Graph (50%),100,7.0,10832,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,109,0,0
+Binomial Tree,16,12.0,11,0,0
+Binomial Graph (30%),100,10.0,183487,0,0
+Binomial Graph (50%),100,7.0,18557,0,0
+Binomial Graph (80%),100,4.0,309,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,106667,0,0
+Binomial Graph (50%),100,7.0,17237,0,0
+Binomial Graph (80%),100,4.0,310,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,83612,0,0
+Binomial Graph (50%),100,6.0,9036,0,0
+Binomial Graph (80%),100,4.0,329,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,81992,0,0
+Binomial Graph (50%),100,6.0,18052,0,0
+Binomial Graph (80%),100,4.0,288,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,86,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1953650,0,0
+Binomial Graph (50%),100,7.0,25376,0,0
+Binomial Graph (80%),100,4.0,544,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1701289,0,0
+Binomial Graph (50%),100,6.0,7331,0,0
+Binomial Graph (80%),100,4.0,297,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,107,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,177048,0,0
+Binomial Graph (50%),100,6.0,3252,0,0
+Binomial Graph (80%),100,4.0,347,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,93395,0,0
+Binomial Graph (50%),100,7.0,18743,0,0
+Binomial Graph (80%),100,4.0,304,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,173358,0,0
+Binomial Graph (50%),100,7.0,23915,0,0
+Binomial Graph (80%),100,4.0,369,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,78,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,128118,0,0
+Binomial Graph (50%),100,6.0,1520,0,0
+Binomial Graph (80%),100,4.0,297,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,169634,0,0
+Binomial Graph (50%),100,7.0,18879,0,0
+Binomial Graph (80%),100,4.0,295,0,0
+Complete,100,2.0,100,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,89349,0,0
+Binomial Graph (50%),100,7.0,22459,0,0
+Binomial Graph (80%),100,4.0,337,0,0
+Complete,100,2.0,201,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,78059,0,0
+Binomial Graph (50%),100,6.0,11847,0,0
+Binomial Graph (80%),100,4.0,320,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,158,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,111734,0,0
+Binomial Graph (50%),100,7.0,20587,0,0
+Binomial Graph (80%),100,4.0,263,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,145266,0,0
+Binomial Graph (50%),100,7.0,16433,0,0
 Binomial Graph (80%),100,4.0,303,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,3494059,0,0
+Binomial Graph (50%),100,6.0,11903,0,0
+Binomial Graph (80%),100,4.0,317,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,73144,0,0
+Binomial Graph (50%),100,7.0,19446,0,0
+Binomial Graph (80%),100,4.0,315,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,79,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,2064566,0,0
+Binomial Graph (50%),100,7.0,13699,0,0
+Binomial Graph (80%),100,4.0,315,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,87,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,174143,0,0
+Binomial Graph (50%),100,6.0,13262,0,0
+Binomial Graph (80%),100,4.0,285,0,0
+Complete,100,2.0,109,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,82,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,60834,0,0
+Binomial Graph (50%),100,7.0,15519,0,0
+Binomial Graph (80%),100,4.0,301,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,72,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,217497,0,0
+Binomial Graph (50%),100,6.0,14074,0,0
+Binomial Graph (80%),100,4.0,287,0,0
+Complete,100,2.0,107,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,76,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1758375,0,0
+Binomial Graph (50%),100,6.0,8560,0,0
+Binomial Graph (80%),100,4.0,337,0,0
+Complete,100,2.0,115,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,125873,0,0
+Binomial Graph (50%),100,6.0,16819,0,0
+Binomial Graph (80%),100,4.0,338,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,930839,0,0
+Binomial Graph (50%),100,7.0,12678,0,0
+Binomial Graph (80%),100,4.0,346,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,81,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,293178,0,0
+Binomial Graph (50%),100,7.0,21325,0,0
+Binomial Graph (80%),100,4.0,305,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,78,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,715469,0,0
+Binomial Graph (50%),100,7.0,11271,0,0
+Binomial Graph (80%),100,4.0,316,0,0
+Complete,100,2.0,113,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,149661,0,0
+Binomial Graph (50%),100,7.0,18695,0,0
+Binomial Graph (80%),100,4.0,293,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,115682,0,0
+Binomial Graph (50%),100,7.0,11845,0,0
+Binomial Graph (80%),100,4.0,298,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,158513,0,0
+Binomial Graph (50%),100,7.0,19786,0,0
+Binomial Graph (80%),100,4.0,307,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,12,0,0
+Cycle,100,67.0,81,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,128125,0,0
+Binomial Graph (50%),100,6.0,10016,0,0
+Binomial Graph (80%),100,4.0,276,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,14,0,0
+Cycle,100,67.0,87,0,0
+Path,100,67.0,79,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,12.0,15280769,0,0
+Binomial Graph (50%),100,6.0,5707,0,0
+Binomial Graph (80%),100,4.0,316,0,0
+Complete,100,2.0,105,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1675878,0,0
+Binomial Graph (50%),100,6.0,11889,0,0
+Binomial Graph (80%),100,4.0,303,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,94,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,2677096,0,0
+Binomial Graph (50%),100,7.0,24598,0,0
+Binomial Graph (80%),100,4.0,321,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,11,0,0
+Cycle,100,67.0,86,0,0
+Path,100,67.0,79,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,152610,0,0
+Binomial Graph (50%),100,7.0,24237,0,0
+Binomial Graph (80%),100,4.0,312,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,77,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,8,0,0
+Binomial Graph (30%),100,10.0,101279,0,0
+Binomial Graph (50%),100,6.0,3444,0,0
+Binomial Graph (80%),100,4.0,304,0,0
+Complete,100,2.0,103,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,80,0,0
+Path,100,67.0,74,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,152555,0,0
+Binomial Graph (50%),100,6.0,18248,0,0
+Binomial Graph (80%),100,4.0,279,0,0
+Complete,100,2.0,102,0,0
+Star,100,2.0,17,0,0
+Cycle,100,67.0,84,0,0
+Path,100,67.0,76,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,11.0,1812270,0,0
+Binomial Graph (50%),100,7.0,18958,0,0
+Binomial Graph (80%),100,4.0,273,0,0
+Complete,100,2.0,111,0,0
+Star,100,2.0,16,0,0
+Cycle,100,67.0,83,0,0
+Path,100,67.0,75,0,0
+Binomial Tree,16,12.0,6,0,0
+Binomial Graph (30%),100,10.0,106628,0,0
+Binomial Graph (50%),100,7.0,19151,0,0
+Binomial Graph (80%),100,4.0,540,0,0
+Complete,100,2.0,104,0,0
+Star,100,2.0,13,0,0
+Cycle,100,67.0,85,0,0
+Path,100,67.0,71,0,0
+Binomial Tree,16,12.0,5,0,0
+Binomial Graph (30%),100,10.0,145150,0,0
+Binomial Graph (50%),100,8.0,93251,0,0
+Binomial Graph (80%),100,4.0,246,0,0
+Complete,1000,2.0,8999,0,0
+Star,1000,2.0,134,0,0
+Cycle,1000,667.0,7614,0,0
+Path,1000,667.0,8221,0,0
+Binomial Tree,64,48.0,13,0,0
+Complete,501,2.0,4078,0,0
+Star,501,2.0,60,0,0
+Cycle,501,334.0,2093,0,0
+Path,501,334.0,1806,0,0
+Binomial Tree,64,48.0,14,0,0
