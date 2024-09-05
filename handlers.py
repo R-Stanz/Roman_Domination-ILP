@@ -84,3 +84,4 @@ def get_graphs_infos(size_variable):
         )
 
     return infos
+

@@ -1,0 +1,3 @@
+graph_type,size,probabilities,objective_value,time_ms,iterations,branch_and_bound_nodes
+gnp_random_graph,10,0.5,4.0,8,0,0
+gnp_random_graph,10,0.8,3.0,6,0,0
