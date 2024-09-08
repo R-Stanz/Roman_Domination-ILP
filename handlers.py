@@ -28,6 +28,23 @@ def get_rr_solver(G, number_of_nodes):
 
     return solver
 
+def get_rr_imp_solver(G, number_of_nodes):
+
+    solver = pywraplp.Solver.CreateSolver('SAT')
+    
+    y = [solver.IntVar(0.0, 1.0, 'y{}'.format(i)) for i in range(number_of_nodes)]
+    x = [solver.NumVar(0.0, solver.infinity(), 'x{}'.format(i)) for i in range(number_of_nodes)]
+
+    solver.Minimize(solver.Sum(x[i]+y[i] for i in range(number_of_nodes)))
+    
+    for i in range(number_of_nodes):
+        solver.Add(x[i] + solver.Sum(y[j[1]] for j in G.edges(i)) >= 1)
+    
+    for i in range(number_of_nodes):
+        solver.Add(y[i] <= x[i])
+
+    return solver
+
 
 def get_graphs_infos(size_variable):
     infos = []
